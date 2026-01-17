@@ -130,6 +130,9 @@ The business insight obtained from the data-driven research in ecommerce indicat
 Acquiring new potential customers for business growth is essential, but maintaining existing customers is more important. The project's primary outcome is focused on understanding customer purchase behaviour using predictive analytics, as well as keeping customers and increasing profitability applying ecommerce models. When implementing promotional techniques, an ecommerce business must first categorise its customers. With the advancement of artificial intelligence, there are models that can assist businesses understand their customers by evaluating their behaviour. Implementing a loyalty program and offering discounts to existing customers would help with retention and profitability. Further research can help to expand the analysis of customer retention and profitability in e-commerce utilising behavioural and predictive analytics.
 
 ## Appendix
+Dashboard Link : <iframe title="ECommerce" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGE1YjEzMmMtNWVlNS00NzcwLWJlZTktODIxNDRhZTc4NmQ5IiwidCI6ImI4MDRmYTYxLTUwYTctNDM3My1iOGNmLTI3YzQyNDcwZTYyNSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 Python code used in Py Visual
 Predicted Churn vs Active
 import pandas as pd
